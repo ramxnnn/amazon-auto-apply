@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+amazonbot_env/
+env/
+
+# Playwright session state
+amazon_state.json
+
+# OS files
+.DS_Store
+
